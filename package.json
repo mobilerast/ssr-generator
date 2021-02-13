@@ -1,0 +1,27 @@
+{
+  "name": "ssr-generator",
+  "version": "1.0.0",
+  "description": "HTML Renderer with Puppeteer and Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "mehmetakifalp@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "puppeteer": "^5.4.1",
+    "url-parse": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "4.6.1",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1",
+    "nodemon": "1.12.0"
+  }
+}
