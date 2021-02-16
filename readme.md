@@ -10,6 +10,6 @@ The purpose of this development making your Single Page App more seo friendly an
 
 3) Output will be under the /site directory.
 
-I used this base to have rendered pages from my Angular apps. 
+I developed this repo to have rendered pages from my Angular apps. 
 
-And we served that rendered content to the "search engines" by specifiying  useragents.
+And served that rendered content to the "search engines" by specifiying  useragents.
