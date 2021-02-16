@@ -41,8 +41,9 @@ class SsrBrowser{
             console.log(html);
             // rendered HTML html
             // send html, pathName to the fileSaver
-            await page.close()
-            ctx.body = html;
+
+            // close page
+            await page.close();
         }
   
 
