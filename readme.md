@@ -2,7 +2,7 @@ SSR Generator is able to save your website as a rendered HTML.  SSR For Angular,
 
 The purpose of this development making your Single Page App more SEO-friendly and more indexable by Search engines. 
 
-If you're limited to develop pre-rendering you could consider this solution to serve your content for search engines.
+If you're limited to develop pre-rendering you should consider this software to serve your content for search engines.
 
 1) fill out the my-website-urls.json
 
