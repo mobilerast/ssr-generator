@@ -1,6 +1,8 @@
-SSR Generator able to save your website as a rendered html. 
+SSR Generator is able to save your website as a rendered HTML.  SSR For Angular, React.js, Vue.js.
 
-The purpose of this development making your Single Page App more seo friendly and more indexable by Search engines.
+The purpose of this development making your Single Page App more SEO-friendly and more indexable by Search engines. 
+
+If you're limited to develop pre-rendering you could consider this solution to serve your content for search engines.
 
 1) fill out the my-website-urls.json
 
@@ -12,4 +14,4 @@ The purpose of this development making your Single Page App more seo friendly an
 
 I developed this repo to have rendered pages from my Angular apps. 
 
-And served that rendered content to the "search engines" by specifiying  useragents.
+And served that rendered content to the "search engines" by specifying user-agents.
