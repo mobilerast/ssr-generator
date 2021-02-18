@@ -1,4 +1,4 @@
-SSR Generator is able to save your website as a rendered HTML.  SSR For Angular, React.js, Vue.js.
+SSR Generator is able to save your SPA as a rendered HTML.  SSR For Angular, React.js, Vue.js.
 
 The purpose of this development making your Single Page App more SEO-friendly and more indexable by Search engines. 
 
